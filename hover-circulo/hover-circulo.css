@@ -1,0 +1,15 @@
+.bloque1{
+    background-color: green;
+    width: 500px;
+    height: 500px;
+    margin: 50px;
+}
+
+.bloque1:hover{
+    background-color: red;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    transform: scale(50%);
+    transition: 2s
+}
